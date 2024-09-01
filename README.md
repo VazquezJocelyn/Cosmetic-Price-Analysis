@@ -90,6 +90,9 @@ The analysis involved several key steps:
 2.  **Visualization of Ingredient Quality vs. Price**
     
     *   A scatter plot was created to visually explore the relationship between ingredient quality and product pricing. This allowed us to see if there was any observable trend between higher-quality ingredients and product prices.
+  
+         ![Price vs. Ingredient Score](./Price%20vs.%20Ingredient%20Score.png)
+        
         
     *   **Observation**: The scatter plot indicates that there is no strong visual trend suggesting that higher ingredient scores directly correlate with higher product prices. The data points are scattered, showing that factors other than ingredient quality might play a significant role in determining prices.
         
